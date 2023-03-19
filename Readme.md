@@ -13,15 +13,14 @@
 
 - ⚡ Fun fact **I can monkeytype all day,without even realizing that it's been a day.**
 
-<h2 align="center">You can find me on:</h2>
+<h2 align="center">Connect with me:</h2>
 
   <p align="center" > <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_kamlesh012_" /></a> </p>
 
 <p align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p>
 
 
-<h3 align="center">My Other Coding Profiles</h3>
-<p align="left">
+<h3 align="center">My Coding Profiles</h3>
 
 <p align="center" > <a  href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a>
 </p>
@@ -36,13 +35,16 @@
 <p align="center" >
 <a align="center" href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="kamleshbisht16"/></a>
    </p>
-</p> 
+  <p align="center">
+<a href="https://kaggle.com/kamleshbisht012" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kamleshbisht012"/></a>
+ </p> 
+
 
 <h3 align="center">Also connect with me through:</h3>
 <p align="left">
 <a href="https://dev.to/kamlesh012" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="kamlesh012"/></a>
   
-<a href="https://kaggle.com/kamleshbisht012" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kamleshbisht012"/></a>
+
 
 </p>
 
