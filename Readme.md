@@ -6,6 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/twitter/follow/_kamlesh012_?logo=twitter&style=for-the-badge" alt="_kamlesh012_" /></a> </p>
 
+<p align="right"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p>
+
+
 - 🔭 I’m currently working on **Simple Chat Web-App**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -16,15 +19,11 @@
 
 - 📫 How to reach me **kamleshbisht012@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/kamlesh012](bit.ly/kamlesh012)
-
 - ⚡ Fun fact **I can monkeytype all day,without even realizing that it's been a day.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kamlesh012" height="30" width="40" /></a>
-<a href="https://twitter.com/_kamlesh012_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kamlesh012_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamlesh012" height="30" width="40" /></a>
 <a href="https://kaggle.com/kamleshbisht012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kamleshbisht012" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kamlesh012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kamlesh012" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamleshbisht16" height="30" width="40" /></a>
@@ -42,4 +41,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh012&" alt="kamlesh012" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamlesh012" alt="kamlesh012" /></a> </p>
