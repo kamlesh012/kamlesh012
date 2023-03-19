@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Kamlesh</h1>
 
 <h3 align="center">A passionate Web-developer from Dehradun,Uttarakhand</h3>
-
 <hr>
 
 - 🔭 I’m currently working on **Simple Chat Web-App**
@@ -24,7 +23,6 @@
 
 <p align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p>
 
-<hr>
 
 <h3 align="center">My Coding Profiles</h3>
 
