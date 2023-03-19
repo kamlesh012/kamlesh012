@@ -1,14 +1,6 @@
 <h1 align="center">Hello 👋, I'm Kamlesh</h1>
 <h3 align="center">A passionate Web-developer from Dehradun</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/twitter/follow/_kamlesh012_?logo=twitter&style=for-the-badge" alt="_kamlesh012_" /></a> </p>
-
-<p align="right"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p>
-
-
 - 🔭 I’m currently working on **Simple Chat Web-App**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -21,15 +13,34 @@
 
 - ⚡ Fun fact **I can monkeytype all day,without even realizing that it's been a day.**
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">I am mostly active on: </h2>
+
+<p align="left"> <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/twitter/follow/_kamlesh012_?logo=twitter&style=for-the-badge" alt="_kamlesh012_" /></a> </p>
+
+<p align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p>
+
+<p align="right"> <a href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p>
+
+
+<h3 align="center">My Other Coding Profiles</h3>
+<p align="left">
+
+<a href="https://www.leetcode.com/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamlesh012" height="30" width="40" /></a>
+  
+<a href="https://www.codechef.com/users/kamlesh012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kamlesh012" height="30" width="40" /></a>
+  
+<a href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamleshbisht16" height="30" width="40" /></a>
+  
+</p> 
+
+<h3 align="center">Also connect with me through:</h3>
 <p align="left">
 <a href="https://dev.to/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kamlesh012" height="30" width="40" /></a>
+  
 <a href="https://kaggle.com/kamleshbisht012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kamleshbisht012" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kamlesh012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kamlesh012" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamleshbisht16" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kamlesh012" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamlesh012" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kamlesh012" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
