@@ -26,15 +26,15 @@
 <p align="center" > <a  href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a>
 </p>
   
-<p align="center" > <a align="center" href="https://www.leetcode.com/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamlesh012" height="30" width="40" /></a>
+<p align="center" > <a align="center" href="https://www.leetcode.com/kamlesh012" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="kamlesh012" height="30" width="40" /></a>
 </p>
 
 <p align="center" >
-  <a align="center" href="https://www.codechef.com/users/kamlesh012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kamlesh012" height="30" width="40" /></a>
+  <a align="center" href="https://www.codechef.com/users/kamlesh012" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="kamlesh012" height="30" width="40" /></a>
  </p>
  
 <p align="center" >
-<a align="center" href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamleshbisht16" height="30" width="40" /></a>
+<a align="center" href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="kamleshbisht16" height="30" width="40" /></a>
    </p>
 </p> 
 
