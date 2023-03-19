@@ -15,13 +15,11 @@
 
 <h2 align="center">I am mostly active on: </h2>
 
-<p align="left"> <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/twitter/follow/_kamlesh012_?logo=twitter&style=for-the-badge" alt="_kamlesh012_" /></a> </p>
+<span align="left"> <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/twitter/follow/_kamlesh012_?logo=twitter&style=for-the-badge" alt="_kamlesh012_" /></a> </span>
 
-<p align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p>
+<span align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </span>
 
-<p align="right"> <a href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p>
+<span align="right"> <a href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a> </span>
 
 
 <h3 align="center">My Other Coding Profiles</h3>
@@ -52,3 +50,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh012&" alt="kamlesh012" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p>
