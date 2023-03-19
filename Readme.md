@@ -22,13 +22,13 @@
 <h3 align="center">My Other Coding Profiles</h3>
 <p align="left">
 
-<a align="center" href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a>
+<a align="center" style="float:right" href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a>
   
-<a align="center" href="https://www.leetcode.com/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamlesh012" height="30" width="40" /></a>
+<a style="float:right" href="https://www.leetcode.com/kamlesh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamlesh012" height="30" width="40" /></a>
   
-<a align="center" href="https://www.codechef.com/users/kamlesh012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kamlesh012" height="30" width="40" /></a>
+<a style="float:right" align="center" href="https://www.codechef.com/users/kamlesh012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kamlesh012" height="30" width="40" /></a>
   
-<a align="center" href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamleshbisht16" height="30" width="40" /></a>
+<a style="float:right" align="center" href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamleshbisht16" height="30" width="40" /></a>
   
 </p> 
 
