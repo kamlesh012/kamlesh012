@@ -1,19 +1,19 @@
 <h1 align="center">Hello 👋, I'm Kamlesh</h1>
 
-<p><img align="center" src="/LinkedinDP.jpg" alt="kamlesh012" /></p>
-<h3 align="center">A passionate Web-developer from Dehradun</h3>
+<h3 align="center">A passionate Web-developer from Dehradun,Uttarakhand</h3>
+
 
 - 🔭 I’m currently working on **Simple Chat Web-App**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Stock Price Prediction System**
 
-- 💬 Ask me about **C/C++/DSA/Competitive Programming**
+- 💬 Ask me about **C++/DSA**
 
 - 📫 How to reach me **kamleshbisht012@gmail.com**
 
-- ⚡ Fun fact **I can monkeytype all day,without even realizing that it's been a day.**
+- ⚡ Fun fact **I can monkeytype all day.**
 
 <h2 align="center">Connect with me:</h2>
 
@@ -50,6 +50,6 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh012&show_icons=true&locale=en" alt="kamlesh012" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh012&" alt="kamlesh012" /></p>
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh012&" alt="kamlesh012" /></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p> -->
