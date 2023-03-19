@@ -46,8 +46,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlesh012&show_icons=true&locale=en&layout=compact" alt="kamlesh012" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh012&show_icons=true&locale=en" alt="kamlesh012" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh012&show_icons=true&locale=en" alt="kamlesh012" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh012&" alt="kamlesh012" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh012&" alt="kamlesh012" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p> -->
