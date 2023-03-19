@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kamlesh</h1>
 
 <h3 align="center">A passionate Web-developer from Dehradun,Uttarakhand</h3>
-
-
+<hr>
 - 🔭 I’m currently working on **Simple Chat Web-App**
 
 - 🌱 I’m currently learning **MERN**
