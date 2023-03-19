@@ -14,12 +14,14 @@
 - ⚡ Fun fact **I can monkeytype all day,without even realizing that it's been a day.**
 
 <h2 align="center">I am mostly active on: </h2>
+<div style="float:left;">
+  <span style="display:inline" > <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_kamlesh012_" /></a> </span>
 
-<span align="left"> <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/twitter/follow/_kamlesh012_?logo=twitter&style=for-the-badge" alt="_kamlesh012_" /></a> </span>
+<span style="display:inline"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </span>
 
-<span align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </span>
+<span style="display:inline" > <a href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a> </span>
+</div>
 
-<span align="right"> <a href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a> </span>
 
 
 <h3 align="center">My Other Coding Profiles</h3>
