@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kamleshbisht012@gmail.com**
 
-- ⚡ Fun fact **I can play any game for 10 hours straight & monkeytype all day as well.**
+<!-- - ⚡ Fun fact **I can monkeytype all day.** -->
 
 <hr>
 
