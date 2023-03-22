@@ -50,11 +50,11 @@
 <a align="center" href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="kamleshbisht16"/></a>
    </p>
   <p align="center">
-  <hr>
+  
 <a href="https://kaggle.com/kamleshbisht012" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kamleshbisht012"/></a>
  </p> 
 </p>
-
+<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh012&show_icons=true&locale=en" alt="kamlesh012" /></p> -->
