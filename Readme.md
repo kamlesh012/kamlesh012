@@ -4,13 +4,13 @@
 
 <hr>
 
-- 🔭 I’m currently working on **Simple Chat Web-App**
+- 🔭 I’m currently working on **Full-Stack Chat Web-Appication**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJs,NodeJs & MongoDB**
 
 - 👯 I’m looking to collaborate on **Stock Price Prediction System**
 
-- 💬 Ask me about **C++/DSA**
+- 💬 Ask me about **C++/DSA/CP
 
 - 📫 How to reach me **kamleshbisht012@gmail.com**
 
