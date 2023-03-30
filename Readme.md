@@ -36,14 +36,14 @@
 
 <h3 align="center">My Coding Profiles</h3>
 
-<p align="center" > <a  href="https://codeforces.com/profile/kamlesh012" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a>
+<p align="center" > <a  href="https://codeforces.com/profile/kamlesh02" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a>
 </p>
   
-<p align="center" > <a align="center" href="https://www.leetcode.com/kamlesh012" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="kamlesh012"/></a>
+<p align="center" > <a align="center" href="https://www.leetcode.com/kamlesh02" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="kamlesh012"/></a>
 </p>
 
 <p align="center" >
-  <a align="center" href="https://www.codechef.com/users/kamlesh012" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="kamlesh012" /></a>
+  <a align="center" href="https://www.codechef.com/users/kamlesh02" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="kamlesh012" /></a>
  </p>
  
 <p align="center" >
