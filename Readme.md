@@ -37,7 +37,7 @@
 <p align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p>
 
 
-<h3 align="center">My Coding Profiles</h3>
+<!-- <h3 align="center">My Coding Profiles</h3> -->
 
 <!-- <p align="center" > <a  href="https://codeforces.com/profile/kamlesh02" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="kamlesh012" /></a>
 </p> -->
@@ -49,13 +49,13 @@
   <a align="center" href="https://www.codechef.com/users/kamlesh02" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="kamlesh012" /></a>
  </p> -->
  
-<p align="center" >
+<!-- <p align="center" >
 <a align="center" href="https://www.hackerrank.com/Kamlesh_bisht16" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="kamleshbisht16"/></a>
-   </p>
+   </p> -->
    
-  <p align="center" > <a href="https://kaggle.com/kamleshbisht012" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kamleshbisht012"/></a>
- </p> 
-</p>
+<!--   <p align="center" > <a href="https://kaggle.com/kamleshbisht012" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kamleshbisht012"/></a>
+ </p>  -->
+<!-- </p> -->
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamlesh012&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh012" /> </p>
 
