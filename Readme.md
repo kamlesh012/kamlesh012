@@ -6,11 +6,11 @@
 
 <!-- - 🔭 I’m currently working on **Chat Web-Appication** -->
 
-<!-- - 🌱 I’m currently learning **ReactJs,NodeJs & MongoDB** -->
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **ReactJs,NodeJs & MongoDB**
+<!-- - 🌱 I’m currently learning **Full Stack Development** -->
 
-<!-- - 👯 I’m looking to collaborate on **Stock Price Prediction System** -->
-- 👯 I’m looking to collaborate on **Deep Learning**
+- 👯 I’m looking to collaborate on **Stock Price Prediction System**
+<!-- - 👯 I’m looking to collaborate on **Deep Learning** -->
 
 <!-- - 💬 Ask me about **C++/DSA/CP -->
 - 💬 Ask me about **Data Structures & Algorithms**
