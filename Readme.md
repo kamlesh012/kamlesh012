@@ -1,16 +1,16 @@
 <h1 align="center">Hello 👋, I'm Kamlesh</h1>
 
-<h3 align="center">A Competitive Programmar & Developer from Dehradun</h3>
+<h3 align="center">A Competitive Programmar & Passionate Developer from Dehradun</h3>
 
 <hr>
 
 <!-- - 🔭 I’m currently working on **Chat Web-Appication** -->
 
 <!-- - 🌱 I’m currently learning **ReactJs,NodeJs & MongoDB** -->
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 <!-- - 👯 I’m looking to collaborate on **Stock Price Prediction System** -->
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Deep Learning**
 
 <!-- - 💬 Ask me about **C++/DSA/CP -->
 - 💬 Ask me about **Data Structures & Algorithms**
