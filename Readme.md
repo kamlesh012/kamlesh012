@@ -17,7 +17,7 @@
 
 <!-- - 📫 How to reach me **kamleshbisht012@gmail.com** -->
 
-<!-- - ⚡ Fun fact **I can monkeytype all day.** -->
+- ⚡ Fun fact **I can monkeytype all day .**
 
 <hr>
 
@@ -31,11 +31,10 @@
 <hr>
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh012&" alt="kamlesh012" /></p>
 <h2 align="center">Connect with me:</h2>
-<!--
-  <p align="center" > <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_kamlesh012_" /></a> </p> -->
+  <p align="center" > <a href="https://twitter.com/_kamlesh012_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_kamlesh012_" /></a> </p>
 
-<!--
-<p align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p> -->
+
+<p align="center"> <a href="https://linkedin.com/in/kamlesh012" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh012" /></a> </p>
 
 
 <!-- <h3 align="center">My Coding Profiles</h3> -->
