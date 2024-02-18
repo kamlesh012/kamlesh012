@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning **ReactJs,NodeJs & MongoDB**
 <!-- - 🌱 I’m currently learning **Full Stack Development** -->
 
-- 👯 I’m looking to collaborate on **Stock Price Prediction System**
+<!-- - 👯 I’m looking to collaborate on **Stock Price Prediction System** -->
 <!-- - 👯 I’m looking to collaborate on **Deep Learning** -->
 
 <!-- - 💬 Ask me about **C++/DSA/CP -->
 - 💬 Ask me about **Data Structures & Algorithms**
 
-<!-- - 📫 How to reach me **kamleshbisht012@gmail.com** -->
+- 📫 How to reach me **kamleshbisht012@gmail.com** 
 
 - ⚡ Fun fact **I can monkeytype all day .**
 
