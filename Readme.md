@@ -15,10 +15,9 @@
 <!-- - 💬 Ask me about **C++/DSA/CP -->
 - 💬 Ask me about **Data Structures & Algorithms**
 
-- 📫 How to reach me **kamleshbisht012@gmail.com** 
-
 - ⚡ Fun fact **I can monkeytype all day .**
 
+- 📫 How to reach me **kamleshbisht012@gmail.com** 
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
