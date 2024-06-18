@@ -5,6 +5,7 @@
 <hr>
 
 - 🌱 I’m currently learning **Angular & Java SpringBoot**
+- 
 - 🔭 And I’m currently working on **Large Language Models**
 
 <!-- - 🌱 I’m currently learning **Full Stack Development** -->
