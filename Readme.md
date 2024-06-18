@@ -4,9 +4,9 @@
 
 <hr>
 
-<!-- - 🔭 I’m currently working on **Chat Web-Appication** -->
-
 - 🌱 I’m currently learning **Angular & Java SpringBoot**
+- 🔭 And I’m currently working on **Large Language Models**
+
 <!-- - 🌱 I’m currently learning **Full Stack Development** -->
 
 <!-- - 👯 I’m looking to collaborate on **Stock Price Prediction System** -->
