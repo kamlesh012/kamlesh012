@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Angular & Java SpringBoot**
+- 🌱 I’m currently learning **Angular**
   
 - 🔭 And I’m currently working on **Large Language Models**
 
