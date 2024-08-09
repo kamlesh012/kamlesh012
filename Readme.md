@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Kamlesh</h1>
 
-<h3 align="center">A Software Engineer & Competitive Programmar from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 <hr>
 
