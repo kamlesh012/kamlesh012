@@ -4,9 +4,9 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Spring Boot**
   
-- 🔭 And I’m currently working on **Large Language Models**
+<!-- - 🔭 And I’m currently working on **Large Language Models**  -->
 
 <!-- - 🌱 I’m currently learning **Full Stack Development** -->
 
