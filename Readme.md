@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Java Spring Boot & React**
   
 <!-- - 🔭 And I’m currently working on **Large Language Models**  -->
 
@@ -16,7 +16,7 @@
 <!-- - 💬 Ask me about **C++/DSA/CP -->
 - 💬 Ask me about **Data Structures & Algorithms**
 
-- ⚡ Fun fact **I can monkeytype all day .**
+- ⚡ Fun fact **I can type at a whopping speed of 100 words per minute.**
 
 - 📫 How to reach me **kamleshbisht012@gmail.com** 
 <hr>
