@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Java Spring Boot & React**
+- 🌱 I’m currently learning **Spring Boot & React**
   
 <!-- - 🔭 And I’m currently working on **Large Language Models**  -->
 
