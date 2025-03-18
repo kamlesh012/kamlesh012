@@ -14,7 +14,7 @@
 <!-- - 👯 I’m looking to collaborate on **Deep Learning** -->
 
 <!-- - 💬 Ask me about **C++/DSA/CP -->
-- 💬 Ask me about **Data Structures & Algorithms**
+<!-- - 💬 Ask me about **Data Structures & Algorithms**  -->
 
 - ⚡ Fun fact **I can type at a speed of 100 words per minute.**
 
