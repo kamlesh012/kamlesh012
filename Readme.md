@@ -1,14 +1,14 @@
-<h1 align="center">Hello 👋, I'm Kamlesh Singh Bisht</h1>
+<h1 align="center">Hello 👋, I'm Kamlesh </h1>
 
 <h3 align="center">A Software Engineer from India</h3>
 
 <hr>
 
-- 🌱 I’m currently learning **Spring Boot & React**
+<!-- - 🌱 I’m currently learning **Spring Boot & React** -->
   
 <!-- - 🔭 And I’m currently working on **Large Language Models**  -->
 
-<!-- - 🌱 I’m currently learning **Full Stack Development** -->
+ - 🌱 I’m currently learning **Full Stack Development** using **Spring Boot & React** - 
 
 <!-- - 👯 I’m looking to collaborate on **Stock Price Prediction System** -->
 <!-- - 👯 I’m looking to collaborate on **Deep Learning** -->
