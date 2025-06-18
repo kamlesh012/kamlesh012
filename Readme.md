@@ -8,7 +8,7 @@
   
 <!-- - 🔭 And I’m currently working on **Large Language Models**  -->
 
- - 🌱 I’m currently learning **Full Stack Development** using **Spring Boot & React** - 
+ - 🌱 I’m currently learning **Full Stack Development** using **Spring Boot & React**  
 
 <!-- - 👯 I’m looking to collaborate on **Stock Price Prediction System** -->
 <!-- - 👯 I’m looking to collaborate on **Deep Learning** -->
